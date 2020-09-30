@@ -35,10 +35,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+package-lock.json
 
 # Distribution directories
 dist/
-public/
 
 # Typescript v1 declaration files
 typings/
